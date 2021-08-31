@@ -14,14 +14,9 @@
 - 🔭 I’m currently working on Symbol / NEM Client apps project.
 - 💬 Ask me about Symbol / NEM 
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=nemgrouplimited&repo=symbol-explorer&theme=shades-of-purple" />][symbol-explorer]
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=nemgrouplimited&repo=symbol-faucet&theme=shades-of-purple" />][symbol-explorer]
-
----
-
-### :books: What I learning:
-
-- React, and GraphQL
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=symbol&repo=symbol-explorer&theme=shades-of-purple" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=symbol&repo=symbol-faucet&theme=shades-of-purple" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyLaw&repo=symbol-dns&theme=shades-of-purple" />
 
 ---
 
