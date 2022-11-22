@@ -1,10 +1,11 @@
+<a rel="me" href="https://techhub.social/@Anthony14w"></a>
+
 # :wave: Hi  <img align="left" alt="anthonylaw | Twitter" width="100px" src="https://78.media.tumblr.com/5e9d3312905266bf5e0828a78b22266e/tumblr_p8a7okXRqQ1xnw7qqo1_500.gif" />
 
 - I'm Software Engineer / Full Stack Developer
 - I :heart: open source project
 - I :pencil2: code to solve the real world problems
 - I passionate about coding
-
 ---
 
 ### :computer: What I do :
